@@ -2022,7 +2022,6 @@ section
 {
 	color: #14bdee;
 }
-
 .footer_social ul li .fa {
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
@@ -2030,4 +2029,12 @@ section
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+.footer_social ul li:hover a i
+{
+	color: #14bdee;
+}
+.home--modifier
+{
+	height: 160px;
 }
