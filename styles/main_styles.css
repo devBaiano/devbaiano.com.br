@@ -2038,3 +2038,9 @@ section
 {
 	height: 160px;
 }
+
+@media only screen and (max-width: 767px) {
+	.header.scrolled .header_content {
+		padding-top: 40px;
+	}
+}
